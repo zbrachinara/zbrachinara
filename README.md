@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/d06087a9-1552-4763-b7f2-3957dcd1dd86.svg)](https://wakatime.com/@d06087a9-1552-4763-b7f2-3957dcd1dd86)
+
 <!--
 **zbrachinara/zbrachinara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
